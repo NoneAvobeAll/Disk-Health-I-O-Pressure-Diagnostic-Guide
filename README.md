@@ -1,7 +1,7 @@
 # Proxmox Disk Health & I/O Pressure Diagnostic Guide
 
-Author: Abubakkar
-Designation: System Admin
+Author: Abubakkar Khan |
+Designation: System Admin |
 Date: July 30, 2025
 
 ## Overview
